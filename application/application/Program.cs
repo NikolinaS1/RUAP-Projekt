@@ -6,7 +6,7 @@ namespace application
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Nikoline Stjepanović!, 65263537");
+            Console.WriteLine("Pozdrav iz aplikacije od Nikoline Stjepanović!");
         }
     }
 }
